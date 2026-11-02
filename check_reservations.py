@@ -16,6 +16,7 @@ Config format:
   "reserved_time": "2026-10-15T09:00:00"      // ISO 8601, optional
 }
 """
+from __future__ import annotations
 
 import json
 import re
